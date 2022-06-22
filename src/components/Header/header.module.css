@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+.navigation {
+  display: flex;
+  gap: 10px;
+  font-size: 1.3rem;
+  margin: 0.7%;
+}
+.cover {
+  font-size: 1.75rem;
+}
+a {
+  color: white;
+}
